@@ -1,0 +1,32 @@
+.animate1{
+    transform: translateY(-130px);
+    animation: first 7s infinite;
+}
+.animate2{
+    transform: translateY(-620px);
+    animation: second 7s infinite;
+}
+
+@keyframes first {
+    0%,100%{
+        transform: translateY(-130px);
+    }
+    33.33%{
+        transform: translateY(-380px);
+    }
+    66.66%{
+        transform: translateY(-620px);
+    }
+}
+@keyframes second {
+    0%,100%{
+        transform: translateY(-620px);
+        
+    }
+    33.33%{
+        transform: translateY(-380px);
+    }
+    66.66%{
+        transform: translateY(-130px);
+    }
+}

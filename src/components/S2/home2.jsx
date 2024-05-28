@@ -4,7 +4,7 @@ import icon3 from '../../Assets/img/location.png'
 export default function Home2 () {
     return (
         <section className="home2 pt-[150px] mt-32 ">
-            <div className="container">
+            <div className="container mx-auto">
                 <div className="text-center  ">
                     <h3 className="bg-clip-text text-transparent text-[45px] font-[700] mb-3  ">Core Features</h3>
                     <p className='text-[22px] font-[700] text-[#3D4653]'>You will learn the problems that Subsocial Network is trying to <br /> solve, a description of existing features</p>

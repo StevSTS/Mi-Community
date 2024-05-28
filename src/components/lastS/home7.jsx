@@ -7,7 +7,7 @@ import logo from '../../Assets/img/سس 1.png'
 export default function Home7() {
     return (
         <section className="home7">
-            <div className="container">
+            <div className="container mx-auto">
                 <div className="content relative flex justify-between items-center ">
 
                     <div className="contact-us ms-16">

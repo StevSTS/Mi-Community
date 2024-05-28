@@ -3,7 +3,7 @@ import group2 from '../../Assets/img/Group 91.png'
 export default function Home4 () {
     return (
         <div className="home4 my-32 ">
-            <div className="container">
+            <div className="container mx-auto">
                 <div className='content flex items-center justify-around '>
                     <div className='ms-10'>
                         <h5 className='text-[40px] font-[700] mb-10 bg-clip-text text-transparent '>We believe that living together <br /> is better than living alone.</h5>

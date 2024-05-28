@@ -2,7 +2,7 @@
 export default function Home3 (props) {
     return (
         <div className="home3 my-32 ">
-            <div className="container">
+            <div className="container mx-auto">
                 <div className='content flex items-center justify-around '>
                     <div className='img'>
                         <img className='w-[550px]' src={props.img} alt="" />

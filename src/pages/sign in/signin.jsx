@@ -62,7 +62,7 @@ export default function Signin () {
 
     return (
         <section>
-            <div className="container">
+            <div className="container mx-auto">
                 <div className='content flex justify-between '>
                     <div className="sign-up">
                         <div  className='imgs'>

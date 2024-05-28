@@ -10,7 +10,7 @@ import vector from '../../Assets/img/Vector 34.png'
 export default function Home6 () {
     return (
         <section className="home6">
-            <div className="container">
+            <div className="container mx-auto">
                 <div className="content flex items-center ">
                     <div className="img">
                         <img className='w-[760px] ' src={saly} alt="img" />
